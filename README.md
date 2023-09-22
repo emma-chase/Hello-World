@@ -9,7 +9,7 @@
 6. [Versioning](#versioning)
    
 # Project Title 😃
-==Place project title here.==
+> Place project title here.
 
 # Description
 **Attach a description here**
@@ -24,3 +24,5 @@ Below are files that were used throughout the project:
 *Attach additional doumentation here.*
 
 # Versioning
+Talk about any versioning used in the project.
+
