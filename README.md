@@ -2,14 +2,18 @@
 
 # Table of Contents
 1. [Project Title](#Project-Title)
-2. [Description](#Description)
-3. [How to Run Program](#How-to-run-program)
-4. [Files Used](#files-used)
-5. [Additional Documentation](#additional-documentation)
-6. [Versioning](#versioning)
+2. [Motivation](#Motivation)
+3. [Description](#Description)
+4. [How to Run Program](#How-to-run-program)
+5. [Files Used](#files-used)
+6. [Additional Documentation](#additional-documentation)
+7. [Versioning](#versioning)
    
 # Project Title 😃
 > Place project title here.
+
+# Motivation
+Learn more about the motivation behind creating this project!
 
 # Description
 **Attach a description here**
