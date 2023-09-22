@@ -9,10 +9,13 @@
 6. [Versioning](#versioning)
    
 # Project Title 😃
+==Place project title here.==
 
 # Description
+**Attach a description here**
 
 # How to Run Program
+Describe any additional content about how to run the program.
 
 # Files Used
 Below are files that were used throughout the project:
