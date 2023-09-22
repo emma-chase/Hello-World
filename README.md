@@ -1,12 +1,12 @@
 # Hello-World
 
 # Table of Contents
-1. [Project Title]
-2. [Description]
-3. [How to Run Program]
-4. [Files Used]
-5. [Additional Documentation]
-6. [Versioning]
+1. [Project Title](#Project-Title)
+2. [Description](#Description)
+3. [How to Run Program](#How-to-run-program)
+4. [Files Used](#files-used)
+5. [Additional Documentation](#additional-documentation)
+6. [Versioning](#versioning)
    
 # Project Title 😃
 
