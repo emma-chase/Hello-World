@@ -1,4 +1,4 @@
-# Hello-World
+# Project Formatting
 
 # Table of Contents
 1. [Project Title](#Project-Title)
