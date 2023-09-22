@@ -10,21 +10,21 @@
 7. [Versioning](#versioning)
    
 # Project Title 😃
-> Place project title here.
+> ***Place project title here.***
 
-# Motivation
+# Motivation 🥇
 Learn more about the motivation behind creating this project!
 
-# Description
+# Description ✍️
 **Attach a description here**
 
-# How to Run Program
+# How to Run Program 🏃‍♀️
 Describe any additional content about how to run the program.
 
-# Files Used
+# Files Used 🖇️
 Below are files that were used throughout the project:
 
-# Additional Documentation
+# Additional Documentation 
 *Attach additional doumentation here.*
 
 # Versioning
